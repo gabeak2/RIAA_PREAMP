@@ -30034,6 +30034,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "-"
+		(at 109.3234 48.045 0)
+		(layer "F.SilkS")
+		(uuid "2c2b9131-ca2c-4105-9ac5-c1b24c5528d7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "For RV1, must use \nthermally protected \nMOV e.g. MOVTP14V250N"
 		(at 79.199 58.967 0)
 		(layer "F.SilkS")
@@ -30053,6 +30065,30 @@
 		(effects
 			(font
 				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "+"
+		(at 109.2726 50.839 0)
+		(layer "F.SilkS")
+		(uuid "762a05a6-4b03-4441-8cc9-fbf860f0e82e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "~"
+		(at 103.3036 50.7374 0)
+		(layer "F.SilkS")
+		(uuid "7b82ce2d-3c88-43bc-8e6f-c6657d9ebc1a")
+		(effects
+			(font
+				(size 1 1)
 				(thickness 0.1)
 			)
 			(justify left bottom)
@@ -30102,6 +30138,18 @@
 			(font
 				(size 1 1)
 				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "~"
+		(at 103.329 48.045 0)
+		(layer "F.SilkS")
+		(uuid "a56af5e2-5edc-4b51-9ae9-7514d5c2361d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
 			)
 			(justify left bottom)
 		)
